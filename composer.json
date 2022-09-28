@@ -6,8 +6,13 @@
     "authors": [
         {
             "name": "Hussein El Harake"
+			"email":"Hussein.ElHarake@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload" : {
+        "psr-0": { "hharake\\test\\": "src/" }
+    }
 }
