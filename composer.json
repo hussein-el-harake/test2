@@ -14,6 +14,5 @@
     },
     "autoload" : {
         "psr-0": { "hharake\\test\\": "src/" }
-	},
-	"minimum-stability": "dev"
+	}
 }
