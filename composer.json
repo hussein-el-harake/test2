@@ -1,0 +1,13 @@
+{
+    "name": "hussein-el-harake/test",
+    "description": "Just a test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hussein El Harake"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
